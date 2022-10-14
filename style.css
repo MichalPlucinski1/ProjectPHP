@@ -1,0 +1,82 @@
+body{
+
+  background-color:#90003B;
+}
+table{
+  border:solid 2px black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 0px 4px;
+}
+.padding{
+  padding: 0px 6px;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logbox{
+  min-width:500px;
+  height:400px;
+  background-color: white;
+  border-radius: 25%;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+.form{
+  text-align: center;
+}
+
+
+.clientpanel{
+  width: 70%;
+
+  background-color: white;
+  margin-top:2%;
+
+  padding-bottom: 50px;
+}
+
+.table{
+  display:flex;
+  justify-content: center;
+  margin:5%;
+}
+.transfer{
+  margin-top:20px;
+  display:flex;
+  justify-content: center;
+}
+
+.tableform{
+  display: table-cell;
+  justify-content: space-between;
+}
+.clientButtons{
+  margin:5%;
+}
+
+.showclients{
+  border: solid 2px black
+}
+
+.showclientsdiv{
+  text-align:center;
+  display:flex;
+  justify-content: center;
+}
+.history{
+  display:flex;
+  justify-content: center;
+}
+tr.historytable > td{
+  border:solid 2px black;
+}
+
+tr.withborder > td{
+  border:solid 2px black;
+}

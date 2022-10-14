@@ -1,0 +1,31 @@
+Dzień dobry! Menedżer i Administrator mogą tworzyć użytkowników, 
+ich numer konta, kod logowania i hasło są przesyłane na maila. 
+Zachęcam zalogowania się poniższymi danymi i stworzenie właśnego konta.
+
+
+admin
+kod logowania: 01
+hasło: prostehaslo
+
+menedżer1:
+kod logowania: 97887
+hasło: Fv?cm%,0
+
+menedżer2:
+kod logowania: 10602
+hasło: %g@40J%y
+
+klient1 pod menedżerem 1:
+kod logowania: 31470
+hasło: 5@@wX#Xe
+numer konta: 00000008265
+
+klient2 pod menedżerem 1:
+kod logowania: 54615
+hasło: j7ys9J?6
+numer konta: 00000025795
+
+klient3 pod menedżerem 2:
+kod logowania: 4952
+hasło: smmg^42B
+numer konta: 00000010490
